@@ -1,4 +1,4 @@
-# dz_bac_bot
+# Bac
 A script to get student's informations from bac.onec.dz without passing captcha.
 
 **How to use:**
@@ -27,3 +27,6 @@ succeed = student.check_condidate_success()
 print(succeed)
 
 ```
+# Note : 
+
+The provided Python code is intended for educational purposes only and should not be used for any malicious or abusive activities. 
