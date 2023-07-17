@@ -1,6 +1,7 @@
 # dz_bac_bot
 A script to get student's informations from bac.onec.dz without passing captcha.
-**How to use**
+
+**How to use:**
 - Clonse the repository.
 - Install libraries by entering in shell :
 ```bash
