@@ -2,12 +2,12 @@
 A script to get student's informations from bac.onec.dz without passing captcha.
 
 **How to use:**
-- Clonse the repository.
+- Clone the repository.
 - Install libraries by entering :
 ```bash
   pip install -r requirements 
 ```
-- Basic example : 
+- Simple example : 
 ```bash
 from bac.bac import Bac
 
@@ -22,7 +22,7 @@ print(result['المعدل'])
 print(result['الملاحظة'])
 print(result['الشعبة'])
 print(result['رقم التسجيل'])
-## Return if the student succeed or not (True if succed)
+## Return if the student succeed or not (True if succeed)
 succeed = student.check_condidate_success()
 print(succeed)
 
